@@ -1,1 +1,1 @@
-Эти базы данных были созданы с использованием Microsoft SQL Server Management Studio во время обучения в университете
+Эти схемы баз данных были созданы с использованием Microsoft SQL Server Management Studio во время обучения в университете
